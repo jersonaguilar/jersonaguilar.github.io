@@ -43,6 +43,15 @@ function init () {
 
     }
 
+repositorio=! index(_n)
+free rutine:
+    else{
+    p203=concat(_destring.p103)
+    p204=concat(_destring.p121)
+    Tert
+    }
+
+
 init();
 document.addEventListener('swup:contentReplaced', init);   
 
